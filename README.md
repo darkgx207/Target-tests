@@ -1,5 +1,7 @@
 # Testes propostos pela *Target*
-Repositório criado para compartilhar código de desafios propostos em testes de emprego.
+Repositório criado para compartilhar código de desafios propostos.
+
+<br>
 
 # Desafio 1:
 ### Soma com Iteração ( feito em c++ ) arquivo test.cpp , necessário compilador g++.
