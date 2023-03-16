@@ -1,6 +1,6 @@
 # Target-tests
 Repositório criado para compartilhar código de desafios propostos em testes de emprego.
-# =============================================
+# -----------------------------
 # Desafio 1:
 ### Soma com Iteração ( feito em c++ ) arquivo test.cpp , necessário compilador g++.
 
